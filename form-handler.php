@@ -176,6 +176,7 @@ void CountSort(int A[],int n)
             j++;
         }   
     }
+    
 }
 
 int main()
@@ -190,6 +191,7 @@ int main()
         printf("%d ",A[i]);    
     }
     printf("\n");
+    printf("allah hu akbar");
     
 
     return 0;
