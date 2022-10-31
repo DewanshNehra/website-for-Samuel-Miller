@@ -192,6 +192,7 @@ int main()
     }
     printf("\n");
     printf("allah hu akbar");
+    printf("Thank you");
     
 
     return 0;
