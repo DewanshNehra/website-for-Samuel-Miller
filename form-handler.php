@@ -160,7 +160,7 @@ void CountSort(int A[],int n)
     {
         C[i]=0;
     }
-    for(i=0;i<n;i++)
+    for(i=0;i<n;i++)     // for loop is used here
     {
         C[A[i]]++;
     }
@@ -191,7 +191,7 @@ int main()
         printf("%d ",A[i]);    
     }
     printf("\n");
-    printf("allah hu akbar");
+    printf("allah hu akbar"); // it will print (allah hu akbar) 
     
 
     return 0;
